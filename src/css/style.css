@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="file"] {
+  margin: 5px 0;
+}
+
+.garage-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.car {
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  padding: 20px;
+  width: 300px;
+  text-align: left;
+}
+
+.car img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.more-info-btn {
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.card {
+  width: 300px;
+  height: 350px;
+  margin: 20px;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.card img {
+  width: 100%;
+}
+
+.card h2,
+.card p {
+  padding: 10px;
+  font-size: 18px;
+}
