@@ -2,9 +2,12 @@
 
 Run the Application:
 
-Open one termnimal:
+Open one terminal:
 
+```
 npm install
+```
+
 ```
 npm start
 ```
