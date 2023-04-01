@@ -1,13 +1,15 @@
 # Tabletop Task
 
-Run the Applicaiton:
+Run the Application:
 
-Open two termnimal:
+Open one termnimal:
 
+npm install
 ```
 npm start
 ```
 
+Open other terminal:
 ```
 node ./server/server.js
 ```
