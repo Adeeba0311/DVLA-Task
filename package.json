@@ -1,12 +1,12 @@
 {
-  "name": "tabletop-task",
+  "name": "dvla-task",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "start": "webpack serve --mode development --env development"
   },
   "keywords": [],
-  "author": "tabletop",
+  "author": "dvla",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
