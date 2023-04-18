@@ -1,4 +1,3 @@
-# Tabletop Task
 
 Run the Application:
 
